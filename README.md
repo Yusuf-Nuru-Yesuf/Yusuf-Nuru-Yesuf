@@ -1,9 +1,6 @@
 ### Hi there 👋
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
 
-[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 <!--
 **Yusuf-Nuru-Yesuf/Yusuf-Nuru-Yesuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
