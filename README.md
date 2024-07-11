@@ -1,6 +1,8 @@
-### Hi there 👋
-
-
+<h1 align="center">Hi there, I'm Yusuf Nuru Yesuf 👋</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yusuf-nuru-yesuf&label=Profile%20views&color=0eb48b" alt="yusuf-nuru-yesuf" /> </p>
+<h3 align="center">Passionate Software Engineer</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yusuf-nuru-yesuf&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="yusuf-nuru-yesuf"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-nuru-yesuf&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="yusuf-nuru-yesuf"/></p>
 <!--
 **Yusuf-Nuru-Yesuf/Yusuf-Nuru-Yesuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
